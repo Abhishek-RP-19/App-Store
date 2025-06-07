@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.tab-button {
+  border: none;
+  background-color: transparent;
+  color: #7b8794;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.active-tab-button {
+  color: #2563eb;
+  border-bottom: 1px solid #2563eb;
+}
